@@ -22,3 +22,4 @@ Tech Stack:
 > NumPy
 > Maplotlib
 > Seaborn
+> Scipy
