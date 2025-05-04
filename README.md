@@ -23,3 +23,12 @@ Tech Stack:
 > Maplotlib
 > Seaborn
 > Scipy
+
+![Counts](https://github.com/user-attachments/assets/a27da2a2-895a-4802-95ac-01c2d768d39b)
+
+![Satisfaction](https://github.com/user-attachments/assets/f06f73df-89d2-4b46-8287-50f56716b587)
+
+
+![Factors of compensation](https://github.com/user-attachments/assets/a0691c5b-096c-4bbc-bbd6-c975dbde7c8b)
+
+
