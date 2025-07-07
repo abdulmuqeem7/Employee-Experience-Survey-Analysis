@@ -1,4 +1,5 @@
 # employee_experience_survey_data
+A simple project sharing the experience of Employees based on salaries, experience, department, and gender
 Department-Wise Employee Distribution:
 
 The sales department has the highest number of employees.
